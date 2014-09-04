@@ -630,13 +630,6 @@
 		DE7BF84E185FE6FA002E0DAB /* libturbojpeg.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF84D185FE6FA002E0DAB /* libturbojpeg.a */; };
 		DE7BF84F185FE726002E0DAB /* libturbojpeg.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF84D185FE6FA002E0DAB /* libturbojpeg.a */; };
 		DE7BF850185FE732002E0DAB /* libturbojpeg.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF84D185FE6FA002E0DAB /* libturbojpeg.a */; };
-		DE7BF85F185FE748002E0DAB /* libavcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF851185FE741002E0DAB /* libavcodec.a */; };
-		DE7BF860185FE748002E0DAB /* libavdevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF852185FE741002E0DAB /* libavdevice.a */; };
-		DE7BF861185FE748002E0DAB /* libavfilter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF853185FE741002E0DAB /* libavfilter.a */; };
-		DE7BF862185FE748002E0DAB /* libavformat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF854185FE741002E0DAB /* libavformat.a */; };
-		DE7BF863185FE748002E0DAB /* libavutil.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF855185FE741002E0DAB /* libavutil.a */; };
-		DE7BF864185FE748002E0DAB /* libswresample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF856185FE741002E0DAB /* libswresample.a */; };
-		DE7BF865185FE748002E0DAB /* libswscale.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF857185FE741002E0DAB /* libswscale.a */; };
 		DE80A0E1183CDD27005207A1 /* QtCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE80A0DB183CDD27005207A1 /* QtCore.framework */; };
 		DE80A0E3183CDD27005207A1 /* QtGui.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE80A0DC183CDD27005207A1 /* QtGui.framework */; };
 		DE80A0E5183CDD27005207A1 /* QtMultimedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE80A0DD183CDD27005207A1 /* QtMultimedia.framework */; };
@@ -2690,13 +2683,6 @@
 				DE02D53A1342222400924C63 /* Foundation.framework in Frameworks */,
 				DE02D53E1342222400924C63 /* QuartzCore.framework in Frameworks */,
 				DEFECB8F18288E860087DEE1 /* libfreetype.a in Frameworks */,
-				DE7BF85F185FE748002E0DAB /* libavcodec.a in Frameworks */,
-				DE7BF860185FE748002E0DAB /* libavdevice.a in Frameworks */,
-				DE7BF861185FE748002E0DAB /* libavfilter.a in Frameworks */,
-				DE7BF862185FE748002E0DAB /* libavformat.a in Frameworks */,
-				DE7BF863185FE748002E0DAB /* libavutil.a in Frameworks */,
-				DE7BF864185FE748002E0DAB /* libswresample.a in Frameworks */,
-				DE7BF865185FE748002E0DAB /* libswscale.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
