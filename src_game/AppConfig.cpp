@@ -21,7 +21,7 @@ namespace DT3 {
 
 unsigned int AppConfig::app_version (void)
 {
-    return 60;
+    return 1;
 }
 
 //==============================================================================

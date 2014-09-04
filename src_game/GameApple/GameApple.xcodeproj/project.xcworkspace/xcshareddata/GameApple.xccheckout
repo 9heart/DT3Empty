@@ -5,43 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>00DA5C69-0BDD-46FA-9022-BE53ECEDFEF1</string>
+	<string>9D6E057B-3DEA-4364-8310-47627F9DE248</string>
 	<key>IDESourceControlProjectName</key>
 	<string>GameApple</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>F4E0E92F-92EE-40AD-84CE-7E1D5B8E33A5</key>
-		<string>http://svn2.smellslikedonkey.com/svn/kaiser</string>
+		<key>EE618615-2B12-4316-9109-B68D9AAF1EC2</key>
+		<string>https://github.com/smellslikedonkey/DT3Empty.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>trunk/src_game/GameApple/GameApple.xcodeproj/project.xcworkspace</string>
+	<string>src_game/GameApple/GameApple.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>F4E0E92F-92EE-40AD-84CE-7E1D5B8E33A5</key>
-		<string>../../../../..</string>
-	</dict>
-	<key>IDESourceControlProjectRepositoryRootDictionary</key>
-	<dict>
-		<key>F4E0E92F-92EE-40AD-84CE-7E1D5B8E33A5</key>
-		<string>http://svn2.smellslikedonkey.com/svn/kaiser</string>
+		<key>EE618615-2B12-4316-9109-B68D9AAF1EC2</key>
+		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>http://svn2.smellslikedonkey.com/svn/kaiser/trunk/src_game/GameApple/GameApple.xcodeproj</string>
+	<string>https://github.com/smellslikedonkey/DT3Empty.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>F4E0E92F-92EE-40AD-84CE-7E1D5B8E33A5</string>
+	<string>EE618615-2B12-4316-9109-B68D9AAF1EC2</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.subversion</string>
-			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
-			<string>trunk</string>
+			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>F4E0E92F-92EE-40AD-84CE-7E1D5B8E33A5</string>
+			<string>EE618615-2B12-4316-9109-B68D9AAF1EC2</string>
 			<key>IDESourceControlWCCName</key>
-			<string>kaiser</string>
+			<string>DT3Empty</string>
 		</dict>
 	</array>
 </dict>

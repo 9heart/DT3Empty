@@ -20,7 +20,7 @@ namespace DT3 {
 //==============================================================================
 //==============================================================================
 
-#define PROJECT_NAME "bouncy"
+#define PROJECT_NAME "HelloWorld"
 
 // Clear graphics on suspend
 #define DT3_CLEAR_GRAPHICS_ON_SUSPEND 1
@@ -35,8 +35,8 @@ namespace DT3 {
 
 // Portal
 #define DTP_USE_PORTAL 1
-#define DTP_PUBLIC_ID "39865aaed3df3bf32e67b2b856dea945"
-#define DTP_PRIVATE_KEY "b7d78ba6d81a524c9bd97c59ec5ba7185636ccec76436bab6ae9fb1b47616a9e"
+#define DTP_PUBLIC_ID "CHANGEMEIFUSINGPORTAL"
+#define DTP_PRIVATE_KEY "CHANGEMEIFUSINGPORTAL"
 
 // Debugging aids
 #define DT3_GUARD_ALLOCATIONS 1

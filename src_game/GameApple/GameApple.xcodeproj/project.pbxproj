@@ -7,24 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B262B72719A668B500D3C7C3 /* BouncyDonkeyAds.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B71F19A668B500D3C7C3 /* BouncyDonkeyAds.cpp */; };
-		B262B72819A668B500D3C7C3 /* BouncyDonkeyAds.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B71F19A668B500D3C7C3 /* BouncyDonkeyAds.cpp */; };
-		B262B72919A668B500D3C7C3 /* BouncyDonkeyAds.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B71F19A668B500D3C7C3 /* BouncyDonkeyAds.cpp */; };
-		B262B72A19A668B500D3C7C3 /* BouncyGameController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B72119A668B500D3C7C3 /* BouncyGameController.cpp */; };
-		B262B72B19A668B500D3C7C3 /* BouncyGameController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B72119A668B500D3C7C3 /* BouncyGameController.cpp */; };
-		B262B72C19A668B500D3C7C3 /* BouncyGameController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B72119A668B500D3C7C3 /* BouncyGameController.cpp */; };
-		B262B72D19A668B500D3C7C3 /* BouncyMainMenu.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B72319A668B500D3C7C3 /* BouncyMainMenu.cpp */; };
-		B262B72E19A668B500D3C7C3 /* BouncyMainMenu.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B72319A668B500D3C7C3 /* BouncyMainMenu.cpp */; };
-		B262B72F19A668B500D3C7C3 /* BouncyMainMenu.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B72319A668B500D3C7C3 /* BouncyMainMenu.cpp */; };
-		B262B73019A668B500D3C7C3 /* BouncyWorld.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B72519A668B500D3C7C3 /* BouncyWorld.cpp */; };
-		B262B73119A668B500D3C7C3 /* BouncyWorld.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B72519A668B500D3C7C3 /* BouncyWorld.cpp */; };
-		B262B73219A668B500D3C7C3 /* BouncyWorld.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B262B72519A668B500D3C7C3 /* BouncyWorld.cpp */; };
-		B2A60A1819B37235003FC79B /* BouncyCloud.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2A60A1619B37235003FC79B /* BouncyCloud.cpp */; };
-		B2A60A1919B37235003FC79B /* BouncyCloud.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2A60A1619B37235003FC79B /* BouncyCloud.cpp */; };
-		B2A60A1A19B37235003FC79B /* BouncyCloud.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2A60A1619B37235003FC79B /* BouncyCloud.cpp */; };
-		B2A60A1D19B37630003FC79B /* BouncyFurball.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2A60A1B19B37630003FC79B /* BouncyFurball.cpp */; };
-		B2A60A1E19B37630003FC79B /* BouncyFurball.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2A60A1B19B37630003FC79B /* BouncyFurball.cpp */; };
-		B2A60A1F19B37630003FC79B /* BouncyFurball.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2A60A1B19B37630003FC79B /* BouncyFurball.cpp */; };
 		DE02D53A1342222400924C63 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE02D5391342222400924C63 /* Foundation.framework */; };
 		DE02D53E1342222400924C63 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE02D53D1342222400924C63 /* QuartzCore.framework */; };
 		DE036E6518B457A300365FBE /* MoreStrings_test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE036E6418B457A300365FBE /* MoreStrings_test.cpp */; };
@@ -465,6 +447,12 @@
 		DE33BAFB164D4CDE00B9506C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE3C7BB7164AEFF000BE174B /* CoreGraphics.framework */; };
 		DE33BAFC164D4D0400B9506C /* ApplicationServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE3C7BB9164AF07500BE174B /* ApplicationServices.framework */; };
 		DE36392E1651679000FBD969 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE36392D1651679000FBD969 /* CoreMotion.framework */; };
+		DE3688C619B7FB4A00AEBF78 /* HWGameController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3688C219B7FB4A00AEBF78 /* HWGameController.cpp */; };
+		DE3688C719B7FB4A00AEBF78 /* HWGameController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3688C219B7FB4A00AEBF78 /* HWGameController.cpp */; };
+		DE3688C819B7FB4A00AEBF78 /* HWGameController.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3688C219B7FB4A00AEBF78 /* HWGameController.cpp */; };
+		DE3688C919B7FB4A00AEBF78 /* HWWorld.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3688C419B7FB4A00AEBF78 /* HWWorld.cpp */; };
+		DE3688CA19B7FB4A00AEBF78 /* HWWorld.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3688C419B7FB4A00AEBF78 /* HWWorld.cpp */; };
+		DE3688CB19B7FB4A00AEBF78 /* HWWorld.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE3688C419B7FB4A00AEBF78 /* HWWorld.cpp */; };
 		DE36911F16CB1B0F00456BBE /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE36911E16CB1B0F00456BBE /* AVFoundation.framework */; };
 		DE36912116CB31CF00456BBE /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE36912016CB31CF00456BBE /* CoreVideo.framework */; };
 		DE36912316CB31F200456BBE /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE36912216CB31F200456BBE /* CoreMedia.framework */; };
@@ -926,13 +914,6 @@
 		DEDC1363151001CD00DDBEDC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEDC1362151001CD00DDBEDC /* SystemConfiguration.framework */; };
 		DEDC1364151001D600DDBEDC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEDC1362151001CD00DDBEDC /* SystemConfiguration.framework */; };
 		DEDF9D8D16CECED100E09197 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEDF9D8C16CECED100E09197 /* QuartzCore.framework */; };
-		DEE2A57918AE7A0400B8D8E3 /* libavcodec.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF851185FE741002E0DAB /* libavcodec.a */; };
-		DEE2A57A18AE7A0400B8D8E3 /* libavdevice.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF852185FE741002E0DAB /* libavdevice.a */; };
-		DEE2A57B18AE7A0400B8D8E3 /* libavfilter.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF853185FE741002E0DAB /* libavfilter.a */; };
-		DEE2A57C18AE7A0400B8D8E3 /* libavformat.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF854185FE741002E0DAB /* libavformat.a */; };
-		DEE2A57D18AE7A0400B8D8E3 /* libavutil.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF855185FE741002E0DAB /* libavutil.a */; };
-		DEE2A57E18AE7A0400B8D8E3 /* libswresample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF856185FE741002E0DAB /* libswresample.a */; };
-		DEE2A57F18AE7A0400B8D8E3 /* libswscale.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DE7BF857185FE741002E0DAB /* libswscale.a */; };
 		DEE5BD9014F6C497000FAD78 /* ImporterAnimation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEE5BD2C14F6C497000FAD78 /* ImporterAnimation.cpp */; };
 		DEE5BD9114F6C497000FAD78 /* ImporterAnimation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEE5BD2C14F6C497000FAD78 /* ImporterAnimation.cpp */; };
 		DEE5BD9214F6C497000FAD78 /* ImporterAnimation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEE5BD2C14F6C497000FAD78 /* ImporterAnimation.cpp */; };
@@ -1566,18 +1547,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B262B71F19A668B500D3C7C3 /* BouncyDonkeyAds.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BouncyDonkeyAds.cpp; sourceTree = "<group>"; };
-		B262B72019A668B500D3C7C3 /* BouncyDonkeyAds.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BouncyDonkeyAds.hpp; sourceTree = "<group>"; };
-		B262B72119A668B500D3C7C3 /* BouncyGameController.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BouncyGameController.cpp; sourceTree = "<group>"; };
-		B262B72219A668B500D3C7C3 /* BouncyGameController.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BouncyGameController.hpp; sourceTree = "<group>"; };
-		B262B72319A668B500D3C7C3 /* BouncyMainMenu.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BouncyMainMenu.cpp; sourceTree = "<group>"; };
-		B262B72419A668B500D3C7C3 /* BouncyMainMenu.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BouncyMainMenu.hpp; sourceTree = "<group>"; };
-		B262B72519A668B500D3C7C3 /* BouncyWorld.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BouncyWorld.cpp; sourceTree = "<group>"; };
-		B262B72619A668B500D3C7C3 /* BouncyWorld.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BouncyWorld.hpp; sourceTree = "<group>"; };
-		B2A60A1619B37235003FC79B /* BouncyCloud.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BouncyCloud.cpp; sourceTree = "<group>"; };
-		B2A60A1719B37235003FC79B /* BouncyCloud.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BouncyCloud.hpp; sourceTree = "<group>"; };
-		B2A60A1B19B37630003FC79B /* BouncyFurball.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BouncyFurball.cpp; sourceTree = "<group>"; };
-		B2A60A1C19B37630003FC79B /* BouncyFurball.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = BouncyFurball.hpp; sourceTree = "<group>"; };
 		DE02D5341342222400924C63 /* GameiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GameiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE02D5391342222400924C63 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DE02D53D1342222400924C63 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
@@ -1892,6 +1861,10 @@
 		DE2B346318A592B100500184 /* BaseInclude.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BaseInclude.cpp; sourceTree = "<group>"; };
 		DE31DE9113D5CC72000A2332 /* libfreetype.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libfreetype.a; path = "../../src/DT3Core/3rdParty/freetype-2.4.4/libfreetype.a"; sourceTree = "<group>"; };
 		DE36392D1651679000FBD969 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreMotion.framework; sourceTree = DEVELOPER_DIR; };
+		DE3688C219B7FB4A00AEBF78 /* HWGameController.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HWGameController.cpp; sourceTree = "<group>"; };
+		DE3688C319B7FB4A00AEBF78 /* HWGameController.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = HWGameController.hpp; sourceTree = "<group>"; };
+		DE3688C419B7FB4A00AEBF78 /* HWWorld.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = HWWorld.cpp; sourceTree = "<group>"; };
+		DE3688C519B7FB4A00AEBF78 /* HWWorld.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = HWWorld.hpp; sourceTree = "<group>"; };
 		DE36911E16CB1B0F00456BBE /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/AVFoundation.framework; sourceTree = DEVELOPER_DIR; };
 		DE36912016CB31CF00456BBE /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreVideo.framework; sourceTree = DEVELOPER_DIR; };
 		DE36912216CB31F200456BBE /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreMedia.framework; sourceTree = DEVELOPER_DIR; };
@@ -2731,13 +2704,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DEE2A57918AE7A0400B8D8E3 /* libavcodec.a in Frameworks */,
-				DEE2A57A18AE7A0400B8D8E3 /* libavdevice.a in Frameworks */,
-				DEE2A57B18AE7A0400B8D8E3 /* libavfilter.a in Frameworks */,
-				DEE2A57C18AE7A0400B8D8E3 /* libavformat.a in Frameworks */,
-				DEE2A57D18AE7A0400B8D8E3 /* libavutil.a in Frameworks */,
-				DEE2A57E18AE7A0400B8D8E3 /* libswresample.a in Frameworks */,
-				DEE2A57F18AE7A0400B8D8E3 /* libswscale.a in Frameworks */,
 				DE1DC9051857F19C007D4114 /* libDTPortalLibMac.a in Frameworks */,
 				DEFECC1118296CE90087DEE1 /* libbz2.dylib in Frameworks */,
 				DEBD10841809F9E900CB697B /* CoreMedia.framework in Frameworks */,
@@ -2798,26 +2764,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B262B71E19A668B500D3C7C3 /* Bouncy */ = {
-			isa = PBXGroup;
-			children = (
-				B2A60A1619B37235003FC79B /* BouncyCloud.cpp */,
-				B2A60A1719B37235003FC79B /* BouncyCloud.hpp */,
-				B262B71F19A668B500D3C7C3 /* BouncyDonkeyAds.cpp */,
-				B262B72019A668B500D3C7C3 /* BouncyDonkeyAds.hpp */,
-				B2A60A1B19B37630003FC79B /* BouncyFurball.cpp */,
-				B2A60A1C19B37630003FC79B /* BouncyFurball.hpp */,
-				B262B72119A668B500D3C7C3 /* BouncyGameController.cpp */,
-				B262B72219A668B500D3C7C3 /* BouncyGameController.hpp */,
-				B262B72319A668B500D3C7C3 /* BouncyMainMenu.cpp */,
-				B262B72419A668B500D3C7C3 /* BouncyMainMenu.hpp */,
-				B262B72519A668B500D3C7C3 /* BouncyWorld.cpp */,
-				B262B72619A668B500D3C7C3 /* BouncyWorld.hpp */,
-			);
-			name = Bouncy;
-			path = ../Bouncy;
-			sourceTree = "<group>";
-		};
 		DE0C23D61899BAA9005CCB61 /* Animation */ = {
 			isa = PBXGroup;
 			children = (
@@ -3262,6 +3208,18 @@
 			);
 			name = src;
 			path = ../../src/DT3OpenGL/3rdParty/glew/src;
+			sourceTree = "<group>";
+		};
+		DE3688C119B7FB4A00AEBF78 /* HelloWorld */ = {
+			isa = PBXGroup;
+			children = (
+				DE3688C219B7FB4A00AEBF78 /* HWGameController.cpp */,
+				DE3688C319B7FB4A00AEBF78 /* HWGameController.hpp */,
+				DE3688C419B7FB4A00AEBF78 /* HWWorld.cpp */,
+				DE3688C519B7FB4A00AEBF78 /* HWWorld.hpp */,
+			);
+			name = HelloWorld;
+			path = ../HelloWorld;
 			sourceTree = "<group>";
 		};
 		DE3B20A613DCA52600640B74 /* Animation */ = {
@@ -4080,7 +4038,7 @@
 				DE4E89B01850DA9B0040AC72 /* DTPortalSDK */,
 				DEC743A81881BB160023D012 /* AppConfig.cpp */,
 				DEC743A91881BB160023D012 /* AppConfig.hpp */,
-				B262B71E19A668B500D3C7C3 /* Bouncy */,
+				DE3688C119B7FB4A00AEBF78 /* HelloWorld */,
 				DE519B24134227CF00FEB0F7 /* DT3Core */,
 				DEB6CF8C16AC3CFF00DFD640 /* DT3Apple */,
 				DECDA86A1888C584005697A8 /* DT3OpenAL */,
@@ -4786,6 +4744,7 @@
 				DEFBAB7D18906F1D0056B573 /* ScriptingSoundHRTF.cpp in Sources */,
 				DE5190EB1342230C00FEB0F7 /* AppDelegate.mm in Sources */,
 				DE0C25CD1899BAAA005CCB61 /* NetworkSocket.cpp in Sources */,
+				DE3688CA19B7FB4A00AEBF78 /* HWWorld.cpp in Sources */,
 				DE5190EC1342230C00FEB0F7 /* EAGLView.mm in Sources */,
 				DE3C2A371916A21300758E8F /* ScriptingDivide.cpp in Sources */,
 				DE5190F11342230C00FEB0F7 /* main.m in Sources */,
@@ -4820,7 +4779,6 @@
 				DE51A47E134229B900FEB0F7 /* pngrutil.c in Sources */,
 				DE51A482134229B900FEB0F7 /* pngrtran.c in Sources */,
 				DE51A486134229B900FEB0F7 /* pngrio.c in Sources */,
-				B2A60A1919B37235003FC79B /* BouncyCloud.cpp in Sources */,
 				DEA6E3FA19487CFA005303D7 /* FileHandleCompressedFD.cpp in Sources */,
 				DE0C26001899BAAA005CCB61 /* GlyphCacheEntry.cpp in Sources */,
 				DEFBAAC318906F1C0056B573 /* ScriptingMaterialBuilder.cpp in Sources */,
@@ -4864,7 +4822,6 @@
 				DE0C264E1899BAAA005CCB61 /* TimerHires.cpp in Sources */,
 				DE51A4D213422A5E00FEB0F7 /* gzclose.c in Sources */,
 				DE51A4D613422A5E00FEB0F7 /* gzlib.c in Sources */,
-				B262B72819A668B500D3C7C3 /* BouncyDonkeyAds.cpp in Sources */,
 				DEA4DDF518EF647900112970 /* ContextSwitcher.S in Sources */,
 				DE51A4DA13422A5E00FEB0F7 /* gzread.c in Sources */,
 				DE0C25AC1899BAAA005CCB61 /* Vector3.cpp in Sources */,
@@ -4994,7 +4951,6 @@
 				DEFBAB5318906F1D0056B573 /* ScriptingRotateY.cpp in Sources */,
 				DE0C25341899BAAA005CCB61 /* FileHandleUncompressed.cpp in Sources */,
 				DEFBAAB118906F1C0056B573 /* ScriptingKeyframesVector3.cpp in Sources */,
-				B262B73119A668B500D3C7C3 /* BouncyWorld.cpp in Sources */,
 				DEE5BDDF14F6C498000FAD78 /* ImporterShaderSHDR.cpp in Sources */,
 				DEE5BDE214F6C498000FAD78 /* ImporterSound.cpp in Sources */,
 				DEE5BDE814F6C498000FAD78 /* ImporterSoundWAV.cpp in Sources */,
@@ -5026,7 +4982,6 @@
 				DE0C24E61899BAAA005CCB61 /* AnimationKeyframe.cpp in Sources */,
 				DEFBAABA18906F1C0056B573 /* ScriptingLoadConfig.cpp in Sources */,
 				DE0C25DF1899BAAA005CCB61 /* Plug.cpp in Sources */,
-				B2A60A1E19B37630003FC79B /* BouncyFurball.cpp in Sources */,
 				DEE5BE1814F6C498000FAD78 /* ShaderResource.cpp in Sources */,
 				DEFBAAD818906F1D0056B573 /* ScriptingMin.cpp in Sources */,
 				DE0C26391899BAAA005CCB61 /* GridImageData.cpp in Sources */,
@@ -5113,7 +5068,6 @@
 				DE0C26541899BAAA005CCB61 /* Tokenizer.cpp in Sources */,
 				DEFBAAC618906F1C0056B573 /* ScriptingMaterialSwitcher.cpp in Sources */,
 				DEFBAAC918906F1D0056B573 /* ScriptingMatrix3Inverse.cpp in Sources */,
-				B262B72E19A668B500D3C7C3 /* BouncyMainMenu.cpp in Sources */,
 				DE0C267C1899E446005CCB61 /* DeviceMusicAppleAQ.cpp in Sources */,
 				DE0C263F1899BAAA005CCB61 /* MoreStrings.cpp in Sources */,
 				DEFBAA5D18906F1C0056B573 /* ScriptingFLIPFLOP.cpp in Sources */,
@@ -5140,6 +5094,7 @@
 				DE0C262D1899BAAA005CCB61 /* ConsoleStream.cpp in Sources */,
 				DEFBAA6918906F1C0056B573 /* ScriptingFrac.cpp in Sources */,
 				DEFBAA6618906F1C0056B573 /* ScriptingFloor.cpp in Sources */,
+				DE3688C719B7FB4A00AEBF78 /* HWGameController.cpp in Sources */,
 				DEFBABC818906F1D0056B573 /* ScriptingVector3Add.cpp in Sources */,
 				DE0C267F1899E446005CCB61 /* HAL.mm in Sources */,
 				DE0C25C71899BAAA005CCB61 /* NetworkAddress.cpp in Sources */,
@@ -5171,7 +5126,6 @@
 				DEFBAAF018906F1D0056B573 /* ScriptingParticleAccelerator.cpp in Sources */,
 				DEFBAB4118906F1D0056B573 /* ScriptingPower.cpp in Sources */,
 				DEFBABBC18906F1D0056B573 /* ScriptingTimerUpReset.cpp in Sources */,
-				B262B72B19A668B500D3C7C3 /* BouncyGameController.cpp in Sources */,
 				DE0C25971899BAAA005CCB61 /* PrimitiveCollisions.cpp in Sources */,
 				DEFBAA6318906F1C0056B573 /* ScriptingFloatSwitcher.cpp in Sources */,
 				DE10D0FD18919E31004EF375 /* ComponentBase.cpp in Sources */,
@@ -5239,7 +5193,6 @@
 			files = (
 				DE519A81134223F400FEB0F7 /* EdLevelAppMain.cpp in Sources */,
 				DE925BAE18F5FFC10028B874 /* InAppPurchasesProduct.cpp in Sources */,
-				B262B72919A668B500D3C7C3 /* BouncyDonkeyAds.cpp in Sources */,
 				DE4688FE188D9BDE0070C274 /* TextureResource2D.cpp in Sources */,
 				DE0C24F01899BAAA005CCB61 /* AnimationTrack.cpp in Sources */,
 				DE519A85134223F400FEB0F7 /* EdLevelDocument.cpp in Sources */,
@@ -5368,7 +5321,6 @@
 				DE5A4F9E18E248DF00FBABA1 /* EdLevelMeshBuilder.cpp in Sources */,
 				DEFBA9FE18906F1C0056B573 /* ScriptingAdd.cpp in Sources */,
 				DE0C25F21899BAAA005CCB61 /* SoundPacket.cpp in Sources */,
-				B2A60A1A19B37235003FC79B /* BouncyCloud.cpp in Sources */,
 				DECDAB551888C5AF005697A8 /* ObjectBase_cmd.cpp in Sources */,
 				DE3B212F13DCA54E00640B74 /* EdLevelScriptEventConnection.cpp in Sources */,
 				DE3B213013DCA54E00640B74 /* EdLevelScriptNodeStandard.cpp in Sources */,
@@ -5402,7 +5354,6 @@
 				DEFBAA0418906F1C0056B573 /* ScriptingAND.cpp in Sources */,
 				DE0C25201899BAAA005CCB61 /* ArchiveTextReader.cpp in Sources */,
 				DEFBAA9A18906F1C0056B573 /* ScriptingKeyframesColor.cpp in Sources */,
-				B2A60A1F19B37630003FC79B /* BouncyFurball.cpp in Sources */,
 				DEA6E3F619469B21005303D7 /* FileHandleUncompressedFD_test.cpp in Sources */,
 				DEFBABA818906F1D0056B573 /* ScriptingSubtract.cpp in Sources */,
 				DE93625414D3A0B200FB9A55 /* EdLevelSoundVUMeter.cpp in Sources */,
@@ -5443,7 +5394,6 @@
 				DE93627814D3A0D800FB9A55 /* EdLevelPropertyVector2Field.cpp in Sources */,
 				DE93627914D3A0D800FB9A55 /* EdLevelPropertyVector3Field.cpp in Sources */,
 				DE905D4514E9DDA700B18E13 /* Application.cpp in Sources */,
-				B262B73219A668B500D3C7C3 /* BouncyWorld.cpp in Sources */,
 				DE905D4814E9DDA700B18E13 /* Application_cmd.cpp in Sources */,
 				DE905D4B14E9DDA700B18E13 /* Command.cpp in Sources */,
 				DEFBAA8518906F1C0056B573 /* ScriptingInRange.cpp in Sources */,
@@ -5541,7 +5491,6 @@
 				DECDAB671888C5AF005697A8 /* SimpleSoundSourceObject.cpp in Sources */,
 				DEE5BDF214F6C498000FAD78 /* AnimationResource.cpp in Sources */,
 				DEE5BDF514F6C498000FAD78 /* FontResource.cpp in Sources */,
-				B262B72F19A668B500D3C7C3 /* BouncyMainMenu.cpp in Sources */,
 				DE0C26731899BC98005CCB61 /* DeviceMusic.cpp in Sources */,
 				DEE5BE0114F6C498000FAD78 /* GeometryResource.cpp in Sources */,
 				DEE5BE0414F6C498000FAD78 /* GeometryResource_cmd.cpp in Sources */,
@@ -5612,10 +5561,12 @@
 				DEFBAB6318906F1D0056B573 /* ScriptingSinSuperposition.cpp in Sources */,
 				DE0C24F91899BAAA005CCB61 /* BaseClass.cpp in Sources */,
 				DE19098517078DBE003254F7 /* SystemCallbacks.cpp in Sources */,
+				DE3688C819B7FB4A00AEBF78 /* HWGameController.cpp in Sources */,
 				DE1BB9FF171742110026C538 /* Profiler.cpp in Sources */,
 				DE0C26281899BAAA005CCB61 /* Compressor.cpp in Sources */,
 				DE78E775172228130014910E /* EdLevelGroup.cpp in Sources */,
 				DEFBAB0F18906F1D0056B573 /* ScriptingParticleKillZone.cpp in Sources */,
+				DE3688CB19B7FB4A00AEBF78 /* HWWorld.cpp in Sources */,
 				DEFBAA1618906F1C0056B573 /* ScriptingBoolSwitcher.cpp in Sources */,
 				DEFBABB118906F1D0056B573 /* ScriptingTimerActive.cpp in Sources */,
 				DEFBAAEE18906F1D0056B573 /* ScriptingOrientTowards.cpp in Sources */,
@@ -5692,7 +5643,6 @@
 				DEFBAA2818906F1C0056B573 /* ScriptingClamp.cpp in Sources */,
 				DEFBAA9118906F1C0056B573 /* ScriptingKeyframes_cmd.cpp in Sources */,
 				DEFBAB1818906F1D0056B573 /* ScriptingParticlePositionRandomizer.cpp in Sources */,
-				B262B72C19A668B500D3C7C3 /* BouncyGameController.cpp in Sources */,
 				DECDAB431888C5AF005697A8 /* CameraObject.cpp in Sources */,
 				DEA31D8D18EB5B0C0000F490 /* ComponentGUIToggleButton.cpp in Sources */,
 				DEFBAB5418906F1D0056B573 /* ScriptingRotateY.cpp in Sources */,
@@ -5762,7 +5712,6 @@
 				DE0C25571899BAAA005CCB61 /* Framebuffer.cpp in Sources */,
 				DE51A47D134229B900FEB0F7 /* pngrutil.c in Sources */,
 				DEFBAB6D18906F1D0056B573 /* ScriptingSoundBiQuadFilter.cpp in Sources */,
-				B262B72A19A668B500D3C7C3 /* BouncyGameController.cpp in Sources */,
 				DE0C25E41899BAAA005CCB61 /* PlugNode.cpp in Sources */,
 				DE0C25ED1899BAAA005CCB61 /* PlugNode_test.cpp in Sources */,
 				DE0C262F1899BAAA005CCB61 /* DirectoryLister.cpp in Sources */,
@@ -5826,6 +5775,7 @@
 				DE036E6518B457A300365FBE /* MoreStrings_test.cpp in Sources */,
 				DEA4DDF418EF647900112970 /* ContextSwitcher.S in Sources */,
 				DE51A4E113422A5E00FEB0F7 /* infback.c in Sources */,
+				DE3688C619B7FB4A00AEBF78 /* HWGameController.cpp in Sources */,
 				DE51A4E513422A5E00FEB0F7 /* inffast.c in Sources */,
 				DE0C25AB1899BAAA005CCB61 /* Vector3.cpp in Sources */,
 				DE0C24FD1899BAAA005CCB61 /* Archive.cpp in Sources */,
@@ -5889,7 +5839,6 @@
 				DEFBA9FF18906F1C0056B573 /* ScriptingAnalytics.cpp in Sources */,
 				DEFBABCA18906F1D0056B573 /* ScriptingVector3Clip.cpp in Sources */,
 				DECDAB651888C5AF005697A8 /* SimpleSoundSourceObject.cpp in Sources */,
-				B262B73019A668B500D3C7C3 /* BouncyWorld.cpp in Sources */,
 				DEE5BD9C14F6C497000FAD78 /* ImporterFontTTF.cpp in Sources */,
 				DEA4DDFA18EF65DA00112970 /* Coroutine_test.cpp in Sources */,
 				DE925BC118F6DF7A0028B874 /* ComponentGUIScrollerLayout.cpp in Sources */,
@@ -5924,15 +5873,14 @@
 				DEFBAB1618906F1D0056B573 /* ScriptingParticlePositionRandomizer.cpp in Sources */,
 				DEFBAB2218906F1D0056B573 /* ScriptingParticleStamFluids.cpp in Sources */,
 				DE0C24F41899BAAA005CCB61 /* SkeletonJoint.cpp in Sources */,
+				DE3688C919B7FB4A00AEBF78 /* HWWorld.cpp in Sources */,
 				DEFBAA4718906F1C0056B573 /* ScriptingDelayOff.cpp in Sources */,
 				DE0C25AE1899BAAA005CCB61 /* Vector4.cpp in Sources */,
 				DE0C25F61899BAAA005CCB61 /* SoundSourceCallback.cpp in Sources */,
 				DEFBABDF18906F1D0056B573 /* ScriptingVector3Random.cpp in Sources */,
-				B2A60A1819B37235003FC79B /* BouncyCloud.cpp in Sources */,
 				DEFBAAFB18906F1D0056B573 /* ScriptingParticleDirectionalVelocityRandomizer.cpp in Sources */,
 				DEE5BDC314F6C498000FAD78 /* ImporterImagePVR.cpp in Sources */,
 				DEE5BDD214F6C498000FAD78 /* ImporterMaterial.cpp in Sources */,
-				B262B72719A668B500D3C7C3 /* BouncyDonkeyAds.cpp in Sources */,
 				DEFBABBE18906F1D0056B573 /* ScriptingTouch.cpp in Sources */,
 				DEFBAB4618906F1D0056B573 /* ScriptingPulseNoReset.cpp in Sources */,
 				DE0C26231899BAAA005CCB61 /* CommandResult.cpp in Sources */,
@@ -5973,7 +5921,6 @@
 				DE0C26141899BAAA005CCB61 /* Analytics.cpp in Sources */,
 				DEFBAB0D18906F1D0056B573 /* ScriptingParticleKillZone.cpp in Sources */,
 				DEE5BE1714F6C498000FAD78 /* ShaderResource.cpp in Sources */,
-				B2A60A1D19B37630003FC79B /* BouncyFurball.cpp in Sources */,
 				DEE5BE1D14F6C498000FAD78 /* SoundResource.cpp in Sources */,
 				DE0C260B1899BAAA005CCB61 /* ThreadMainTaskQueue.cpp in Sources */,
 				DEFBAAE318906F1D0056B573 /* ScriptingNotEqual.cpp in Sources */,
@@ -6143,7 +6090,6 @@
 				DEFBAB7F18906F1D0056B573 /* ScriptingSoundLowPassFilter3db.cpp in Sources */,
 				DECDAB411888C5AF005697A8 /* CameraObject.cpp in Sources */,
 				DEFBAA5318906F1C0056B573 /* ScriptingEqualInt.cpp in Sources */,
-				B262B72D19A668B500D3C7C3 /* BouncyMainMenu.cpp in Sources */,
 				DE0C24F71899BAAA005CCB61 /* BaseClass.cpp in Sources */,
 				DEFBAA3518906F1C0056B573 /* ScriptingComponentsToVector2.cpp in Sources */,
 				DEFBAAAD18906F1C0056B573 /* ScriptingKeyframesVector2.cpp in Sources */,
@@ -6317,8 +6263,8 @@
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "70A36BDF-1250-476F-B767-7702B5750A88";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "70A36BDF-1250-476F-B767-7702B5750A88";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -6364,8 +6310,8 @@
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "70A36BDF-1250-476F-B767-7702B5750A88";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "70A36BDF-1250-476F-B767-7702B5750A88";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -6852,8 +6798,8 @@
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "F8909D57-FBC5-4648-A491-81AADFF36592";
-				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "F8909D57-FBC5-4648-A491-81AADFF36592";
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";

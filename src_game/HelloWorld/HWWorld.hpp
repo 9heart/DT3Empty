@@ -1,8 +1,8 @@
-#ifndef DT3_BOUNCYWORLD
-#define DT3_BOUNCYWORLD
+#ifndef DT3_HWWORLD
+#define DT3_HWWORLD
 //==============================================================================
 ///	
-///	File: BouncyWorld.hpp
+///	File: HWWorld.hpp
 ///	
 /// Copyright (C) 2000-2014 by Smells Like Donkey Software Inc. All rights reserved.
 ///
@@ -12,7 +12,6 @@
 //==============================================================================
 
 #include "DT3Core/World/World.hpp"
-#include "DT3Core/Types/Graphics/DrawBatcher.hpp"
 
 //==============================================================================
 //==============================================================================
@@ -23,35 +22,27 @@ namespace DT3 {
 /// Forward declarations
 //==============================================================================
 
-typedef Callback<const std::shared_ptr<CameraObject> &, DrawBatcher *, DTfloat> DrawBatchedCallbackType;
-typedef WorldEntry<DrawBatchedCallbackType> DrawBatchedCallbackEntry;
 
 //==============================================================================
 //==============================================================================
 
-class BouncyWorld: public World {
+class HWWorld: public World {
     public:
-        DEFINE_TYPE(BouncyWorld,World)
+        DEFINE_TYPE(HWWorld,World)
 		DEFINE_CREATE
 
-									BouncyWorld             (void);
+									HWWorld                 (void);
 	private:
-									BouncyWorld             (const BouncyWorld &rhs);
-        BouncyWorld &               operator =              (const BouncyWorld &rhs);
+									HWWorld                 (const HWWorld &rhs);
+        HWWorld &                   operator =              (const HWWorld &rhs);
 	public:
-        virtual						~BouncyWorld            (void);
+        virtual						~HWWorld                (void);
                                         
         virtual void				archive                 (const std::shared_ptr<Archive> &archive);
 
     public:
 		/// Called to initialize the object
 		virtual void				initialize              (void);
-
-		/// Process arguments
-		virtual void                process_args            (const std::string &args);
-
-    private:
-        DrawBatcher                 _b;
 };
 
 //==============================================================================
