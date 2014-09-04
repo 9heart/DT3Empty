@@ -14,11 +14,3 @@ echo ----data.pack----
 ./data/materials \
 ./data/shaders \
 ./data/sounds
-
-./PackageMaker ./data_ads.pack \
--compress lvl \
--compress mat \
--compress shdr \
--compress txt \
-./data_ads
-
