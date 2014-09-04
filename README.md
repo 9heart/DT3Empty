@@ -7,10 +7,10 @@ Empty project to get started with DT3
     mkdir src
     cd src
     git clone https://github.com/smellslikedonkey/DT3.git
-2. Generate package files for iOS and Android. This builds the data.pack file that contains all of the assets.
+3. Generate package files for iOS and Android. This builds the data.pack file that contains all of the assets.
     cd install
     ./makepkg.sh
-2. Open XCode project
+4. Open XCode project
     - Build GameMac Debug
     - Build LevelEditor Debug
     - Build GameiOS
