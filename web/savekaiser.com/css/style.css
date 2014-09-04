@@ -1,0 +1,75 @@
+/*
+* {
+	border: 1px solid red !important;
+}
+*/
+
+/* 
+@font-face {
+    font-family: cardsf;
+    src: url(fonts/cards.ttf);
+}
+ */
+
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+  
+  z-index:-1;
+}
+
+pre {
+    margin-left: 20px;
+    margin-right: 20px;
+	overflow: auto;
+	width: 900px;
+    background-color:#EEEEEE;
+}
+
+h2 {
+/* 
+    font-family: cardsf;
+ */
+}
+
+.trademark {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:#EEFFFF;
+}
+
+.intro {
+    font-size:150%;
+}
+
+.contentbox {
+    padding: 2em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border:1px solid;
+    border-color:#AAAAAA;
+    border-radius:5px;
+    background-color:#FFFFFF;
+    opacity:0.9;
+}
+
+.donatebox {
+    padding: 1em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border-radius:5px;
+    background-color:#EEEEEE;
+    opacity:1.0;
+    width:250px;
+    height:100px;
+    float:left;
+}

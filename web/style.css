@@ -1,0 +1,39 @@
+/*
+* {
+	border: 1px solid red !important;
+}
+*/
+
+@font-face {
+    font-family: cards;
+    src: url(fonts/cards.ttf);
+}
+
+
+html { 
+  width:100%;
+}
+
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+  
+  z-index:-1;
+}
+
+body {
+	font: 100% "Trebuchet MS", sans-serif;
+	color:#FFFFFF;
+	margin: 50px;
+}
+
+h1 {
+    font-family: cards;
+	color:#FFFFFF;
+}
+

@@ -1,0 +1,3 @@
+
+default {	name = "HELLO_WORLD" value = "[font={saxmono.ttf}][color=1.0 1.0 1.0 1.0][size=20][j<][nw]Hello World"    lifetime = VOLATILE	}
+
