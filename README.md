@@ -6,6 +6,7 @@ Empty project to get started with DT3
 1. Install Qt as per instructions in DT3 repo
 
 2. Clone DT3 repo into a directory called src
+    
     mkdir src
     
     cd src
@@ -13,6 +14,7 @@ Empty project to get started with DT3
     git clone https://github.com/smellslikedonkey/DT3.git
     
 3. Generate package files for iOS and Android. This builds the data.pack file that contains all of the assets.
+    
     cd install
     
     ./makepkg.sh
